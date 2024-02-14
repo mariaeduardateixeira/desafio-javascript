@@ -10,4 +10,4 @@ if (num > 10) {
 }
 
 //Resposta:
-//O algoritmo irá gerar um loop infinito visto que num = -1 e enquanto o num possuir esse valor, ele atende a verificação do while(num <= 10);
+//O algoritmo irá gerar um loop infinito visto que num é = -1 e enquanto o num possuir esse valor, ele atende a verificação do while(num <= 10);
